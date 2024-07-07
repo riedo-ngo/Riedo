@@ -1,6 +1,6 @@
-document.querySelector('form').addEventListener('submit', function(event) {
-    event.preventDefault();
-    alert('Form submitted! Thank you for reaching out to us.');
-    // Clear the form
-    document.querySelector('form').reset();
+// script.js - Example script file (add your own functionality as needed)
+
+// Example: Display a message when the page loads
+document.addEventListener('DOMContentLoaded', function() {
+    console.log('Page loaded.');
 });
